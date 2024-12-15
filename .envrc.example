@@ -1,0 +1,2 @@
+export PHP_VERSION="8.3.12"
+export PATH="$PWD/.bin:$PATH"
